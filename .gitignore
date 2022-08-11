@@ -1,0 +1,4 @@
+*.lnk
+/tool
+/shot000
+cache/
